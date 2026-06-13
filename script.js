@@ -1,0 +1,1 @@
+document.querySelector('#menu').onclick=()=>document.querySelector('#nav').classList.toggle('open');document.querySelector('#dark').onclick=()=>document.body.classList.toggle('light');
